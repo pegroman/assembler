@@ -1,0 +1,14 @@
+                
+                
+                sin son valores positivos que tengo que comparar:
+                "unsigned"
+                para mayores --> BHI
+                para menores --> BLO
+                mayor igual --->BHS
+                menor igual --> BLS
+                
+                si no especifican si son positivos o negativos:
+                mayores --> BGT
+                mayor igual --> BGE
+                menores -->BLT
+                menor igual -->BLE
